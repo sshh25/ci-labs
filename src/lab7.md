@@ -147,3 +147,27 @@ Is there other alternative to display data with more than 2 input features?
 
 ### Additional
 There is a [tensorflow playground](https://playground.tensorflow.org/) which tries to visualise the training process of a neural network. It's similar to what we did in this lab.
+
+
+# Bonus Opportunity: Explore Convolutional Neural Networks 
+
+As part of enhancing your professional skills, you are encouraged to complete this optional **Explore Convolutional Neural Networks** course provided by MathWorks.
+
+- **Estimated Time:** ~2 hours
+- **Platform:** Online (browser-based)
+- **Outcome:** Recognition Bonus & Digital Certificate from MathWorks
+
+**What you need to do**
+
+1. Login to CSC3034 Course page on eLearn.
+2. Navigate to the Artificial Neural Networks (ANN) section. 
+4. Click on "Explore Convolutional Neural Networks (on Mathworks)" and Launch Activity. 
+5. Complete the course on Mathworks.
+3. BONUS: Download your Certificate of Completion.
+
+**Bonus Recognition & Requirements:**
+
+- Students who complete and submit the certificate will receive a special recognition later in the semester.
+- However, **you must complete this activity before December 14th (5:00 PM), 2025 to qualify for the bonus**
+
+---

@@ -197,3 +197,26 @@ Investigate the effect of the following parameters on the performance of the neu
 - number of hidden layers
 - number of neurons in hidden layers
 - splitting ratio of training and testing sets
+
+# Bonus Opportunity: Deep Learning Onramp 
+
+As part of enhancing your professional skills, you are encouraged to complete this optional **Deep Learning Onramp** course provided by MathWorks.
+
+- **Estimated Time:** ~2 hours
+- **Platform:** Online (browser-based)
+- **Outcome:** Recognition Bonus & Digital Certificate from MathWorks
+
+**What you need to do**
+
+1. Login to CSC3034 Course page on eLearn.
+2. Navigate to the Artificial Neural Networks (ANN) section. 
+4. Click on "Deep Learning Onramp (on Mathworks)" and Launch Activity. 
+5. Complete the course on Mathworks.
+3. BONUS: Download your Certificate of Completion.
+
+**Bonus Recognition & Requirements:**
+
+- Students who complete and submit the certificate will receive a special recognition later in the semester.
+- However, **you must complete this activity before December 7th (5:00 PM), 2025 to qualify for the bonus**
+
+---

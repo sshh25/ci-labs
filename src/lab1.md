@@ -226,3 +226,26 @@ For this section. assume the `random.random()` function selects the random numbe
 
     !!! note "Limitation"
         Due to the limitation of matplotlib, the spiral plotting only works for the Fibonacci sequence with length less than 93.
+        
+# Bonus Opportunity: SIMULINK Onramp 
+
+As part of enhancing your professional skills, you are encouraged to complete this optional **SIMULINK Onramp** course provided by MathWorks.
+
+- **Estimated Time:** ~2 hours
+- **Platform:** Online (browser-based)
+- **Outcome:** Recognition Bonus & Digital Certificate from MathWorks
+
+**What you need to do**
+
+1. Login to CSC3034 Course page on eLearn.
+2. Navigate to the Fuzzy Systems (FZ) section. 
+4. Click on "SIMULINK Onramp (on Mathworks)" and Launch Activity. 
+5. Complete the course on Mathworks.
+3. BONUS: Download your Certificate of Completion.
+
+**Bonus Recognition & Requirements:**
+
+- Students who complete and submit the certificate will receive a special recognition later in the semester.
+- However, **you must complete this activity before October 5h (5:00 PM), 2025 to qualify for the bonus**
+
+---

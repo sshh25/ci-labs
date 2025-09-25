@@ -25,34 +25,30 @@ The labs are designed to follow the schedule of the lectures, therefore you will
 <div class="timeline">
     <div class="container right">
         <div class="date">Week 2</div>
-        <div class="content"><a href="./lab1">Lab 1: Python Refresher</a></div>
+        <div class="content"><a href="./lab1">Lab 1: Python Refresher <br><strong>(Simulink Onramp)</strong> </a></div>
     </div>
     <div class="container right">
         <div class="date">Week 4</div>
-        <div class="content"><a href="./lab2">Lab 2: Fuzzy Systems</a></div>
+        <div class="content"><a href="./lab2">Lab 2: Fuzzy Systems <br><strong>(Control Design Onramp with Simulink)</strong> </a></div>
     </div>
     <div class="container right">
         <div class="date">Week 6</div>
-        <div class="content"><a href="./lab3">Lab 3: EC - Genetic Algorithms</a></div>
+        <div class="content"><a href="./lab3">Lab 3: EC - Genetic Algorithms  <br><strong>(Intro to Symbolic Math with MATLAB)</strong> </a></div>
     </div>
     <div class="container right">
         <div class="date">Week 7</div>
-        <div class="content"><a href="./lab4">Lab 4: EC - Swarm Intelligence</a></div>
+        <div class="content"><a href="./lab4">Lab 4: EC - Swarm Intelligence <br><strong>(Optimization Onramp)</strong> </a></div>
     </div>
     <div class="container right">
         <div class="date">Week 8</div>
-        <div class="content"><a href="./lab5">Lab 5: EC - Ant Colony Optimization</a></div>
+        <div class="content"><a href="./lab5">Lab 5: EC - Ant Colony Optimization </a></div>
     </div>
     <div class="container right">
         <div class="date">Week 9</div>
-        <div class="content"><a href="./lab6">Lab 6: ANN - Supervised Learning</a></div>
+        <div class="content"><a href="./lab6">Lab 6: ANN - Supervised Learning <br><strong>(Bonus: Deep Learning Onramp)</strong> </a></div>
     </div>
     <div class="container right">
         <div class="date">Week 10</div>
-        <div class="content"><a href="./lab7">Lab 7: ANN - Hyperplane with ANNs </a></div>
+        <div class="content"><a href="./lab7">Lab 7: ANN - Hyperplane with ANNs <br><strong>(Bonus: Explore Convolutional Neural Networks)</strong> </a></div>
     </div>
-    <div class="container right">
-        <div class="date">Week 11</div>
-        <div class="content"><a href="./lab8a">Lab 8: ANN - ANNs with Keras</a></div>
-    </div>  
 </div>

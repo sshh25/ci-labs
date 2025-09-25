@@ -387,3 +387,27 @@ Solve the following problem using global best particle swarm optimisation:
 ### Optional
 
 1. How may you modify the formulae for particles with two variables, in which the fitness function is defined as $f(x,y) = x^2 + y^2$? 
+
+
+# Bonus Opportunity: Optimization Onramp 
+
+As part of enhancing your professional skills, you are encouraged to complete this optional **Optimization Onramp** course provided by MathWorks.
+
+- **Estimated Time:** ~2 hours
+- **Platform:** Online (browser-based)
+- **Outcome:** Recognition Bonus & Digital Certificate from MathWorks
+
+**What you need to do**
+
+1. Login to CSC3034 Course page on eLearn.
+2. Navigate to the Evolutionary Computation (EC) section. 
+4. Click on "Optimization Onramp (on Mathworks)" and Launch Activity. 
+5. Complete the course on Mathworks.
+3. BONUS: Download your Certificate of Completion.
+
+**Bonus Recognition & Requirements:**
+
+- Students who complete and submit the certificate will receive a special recognition later in the semester.
+- However, **you must complete this activity before November 9th (5:00 PM), 2025 to qualify for the bonus**
+
+---
